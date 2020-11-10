@@ -6,3 +6,7 @@ Search Particular Student Information
 Update Information
 And at last you can also export the student data.
 
+Installation Guide
+Python3 is needed
+Mysql Needed
+
